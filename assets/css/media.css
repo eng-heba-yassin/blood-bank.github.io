@@ -1,0 +1,159 @@
+﻿/* Navbar */
+@media (min-width: 992px) and (max-width: 994px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px !important;
+    }
+}
+@media (min-width: 995px) and (max-width: 1119px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px !important;
+    }
+}
+/* About */
+@media (max-width: 767px) {
+    .about p {
+        font-size: 16px !important;
+    }
+}
+/* Donation */
+@media (min-width: 768px) {
+    .donation .margin-small {
+        margin-right: 98px !important;
+        margin-left: 98px !important;
+    }
+}
+@media (max-width: 767px) {
+    .donation .details h2 {
+        width: 32% !important;
+    }
+    .donation .details .margin-space {
+        margin-bottom: 15px;
+    }
+    .donation .details h4 {
+        font-size: 19px !important;
+    }
+    .donation .details .btn {
+        margin-top: 0 !important;
+        float: right !important;
+    }
+}
+/* Call Us */
+@media (max-width: 424px) {
+    .call-us img {
+        width: 65px !important;
+        right: 76% !important;
+        top: 69% !important;
+    }
+}
+@media (min-width: 425px) and (max-width: 990px) {
+    .call-us img {
+        width: 66px !important;
+        right: 69% !important;
+        top: 69% !important;
+    }
+}
+@media (max-width: 768px) {
+    .app .content {
+        padding-top: 0 !important;
+    }
+}
+/* Footer */
+@media (max-width: 337px) {
+    .footer h3 {
+        font-size: 17px !important;
+    }
+}
+@media (max-width: 767px) {
+    .footer .content {
+        margin-bottom: 15px !important;
+    }
+}
+/* Register */
+@media (max-width: 573px) {
+    .register .content {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+    .register .content-style {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+}
+/* Donation Page */
+@media (max-width: 573px) {
+    .donation-page .for-margin-row {
+        margin-right: -15px !important;
+        margin-left: -15px !important;
+    }
+    .donation-page .forPagination .page-link {
+        padding: 0.6rem 0.6rem !important;
+    }
+    .donation .content {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+    .donation .content-style {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .donation-page .for-margin-row {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+}
+@media (max-width: 991px) {
+    .donation .details h4 > span {
+        font-size: 17px !important;
+    }
+    .donation .details h4 {
+        font-size: 17px !important;
+    }
+}
+/* About Page */
+@media (max-width: 573px) {
+    .about-us .content {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+    .about-us .content-style {
+        
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+    .about-us .content-style p {
+        font-size: 15px !important;
+    }
+}
+/* Post Page */
+@media (max-width: 573px) {
+    .posts .content {
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+    .posts .content-style {
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+    .posts .content-style p {
+        font-size: 15px !important;
+    }
+}
+/* Contact Us Page */
+@media (max-width: 370px) {
+    .c-us .social-icon a {
+        margin-right: 9px !important;
+        margin-left: 9px !important; 
+    }
+}
+@media (min-width: 767px) and (max-width: 1999px) {
+    .c-us .social-icon a {
+        margin-right: 7px !important;
+        margin-left: 7px !important;
+    }
+}
